@@ -1,0 +1,14 @@
+version: 2
+importPivots: 0
+tpsheetFileNames:
+- Assets/Sprites/Environment/Background.tpsheet
+- Assets/Sprites/Environment/Environment.tpsheet
+- Assets/Sprites/Girl/Player.tpsheet
+textureFileNames:
+- Assets\Sprites\Environment/Background.png
+- Assets\Sprites\Environment/Environment.png
+- Assets\Sprites\Girl/Player.png
+normalmapFileNames:
+- 
+- 
+- 
